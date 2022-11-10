@@ -1,3 +1,3 @@
 # lugar
 
-[DEMO](https://dimonlakhin.github.io/himo_landing/)
+[DEMO](https://dimonlakhin.github.io/lugar/)
